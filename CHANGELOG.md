@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 
 
+## Unreleased as of Sprint 87 ending 2018-06-04
+
+### Added
+- Add sysprep template support [(#263)](https://github.com/ManageIQ/manageiq-providers-azure/pull/263)
+- Add Germany North and Germany West Central regions [(#261)](https://github.com/ManageIQ/manageiq-providers-azure/pull/261)
+- Added French and Australian regions fix Southeast Asia description. [(#260)](https://github.com/ManageIQ/manageiq-providers-azure/pull/260)
+
 ## Unreleased as of Sprint 84 ending 2018-04-23
 
 ### Added
